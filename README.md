@@ -1,4 +1,4 @@
-# p4_cinebase
+# cinebase
 
 A new Flutter project.
 
